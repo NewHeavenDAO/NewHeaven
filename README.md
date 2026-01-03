@@ -42,29 +42,28 @@ Only engineers who start at the root, not the surface, should apply.
 
 🛠 Tech Stack
 
-Frontend: TypeScript, React, WebGL / R3F / Babylon.js, WebAssembly, PWA
+-Frontend: TypeScript, React, WebGL / R3F / Babylon.js, WebAssembly, PWA
 
-Backend: Node.js, Deno, Kafka, Redis, ClickHouse, PostgreSQL, TimescaleDB, Qdrant
+-Backend: Node.js, Deno, Kafka, Redis, ClickHouse, PostgreSQL, TimescaleDB, Qdrant
 
-Blockchain: ERC-721 (NH-ID), ERC-4337 wallets, Chainlink CCIP, API3+, Pyth
+-Blockchain: ERC-721 (NH-ID), ERC-4337 wallets, Chainlink CCIP, API3+, Pyth
 
-Security: PQC (Kyber, Dilithium, Falcon), Air-gapped wallets, RE Epoch, Circuit Breaker & Rollback
+-Security: PQC (Kyber, Dilithium, Falcon), Air-gapped wallets, RE Epoch, Circuit Breaker & Rollback
 
-AI / ML: Deglet AI (GNN + Temporal Transformers), User AI Companion (ephemeral, RE-aware)
+-AI / ML: Deglet AI (GNN + Temporal Transformers), User AI Companion (ephemeral, RE-aware)
 
-Observability / Ops: Prometheus, Datadog, PostHog, Sentry, OTE
+-Observability / Ops: Prometheus, Datadog, PostHog, Sentry, OTE
+
 
 🔬 What You’ll Build
-Deterministic rollback + circuit breaker logic
 
-Offline-first wallet operations with air-gapped signing
-PQC-secured revocation & key lifecycle management
+-Deterministic rollback + circuit breaker logic
+-Offline-first wallet operations with air-gapped signing
+-PQC-secured revocation & key lifecycle management
+-AI-assisted anomaly detection & fraud prevention
+-Social + blockchain integration resilient under stress
+-End-to-end observability & incident intelligence pipelines
 
-AI-assisted anomaly detection & fraud prevention
-
-Social + blockchain integration resilient under stress
-
-End-to-end observability & incident intelligence pipelines
 
 📈 How to Join
 
