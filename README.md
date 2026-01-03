@@ -58,10 +58,15 @@ Only engineers who start at the root, not the surface, should apply.
 🔬 What You’ll Build
 
 -Deterministic rollback + circuit breaker logic
+
 -Offline-first wallet operations with air-gapped signing
+
 -PQC-secured revocation & key lifecycle management
+
 -AI-assisted anomaly detection & fraud prevention
+
 -Social + blockchain integration resilient under stress
+
 -End-to-end observability & incident intelligence pipelines
 
 
